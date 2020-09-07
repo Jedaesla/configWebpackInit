@@ -1,7 +1,7 @@
-# Webpack Starter
+# Webpack Starter 04092020
 
-Este es el proyecto inicial para crear
-aplicaciones utilizando webpack.
+Este es el esquema principal para crear
+aplicaciones javascript utilizando webpack.
 
 ### Notas:
 Recuerden reconstruir los módulos de Node

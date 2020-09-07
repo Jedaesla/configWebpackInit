@@ -1,3 +1,8 @@
 {
     "presets": ["@babel/preset-env","minify"]
 }
+/*
+    con el babel preset se traspila los .js para ser compatible con navegadores antiguos
+    ademas se ayuda a minificar los archivos traspilados con babel con el 
+    babel-preset-minify, como tambien babel-minify-webpack-plugin
+*/
